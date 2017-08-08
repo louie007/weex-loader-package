@@ -1779,9 +1779,9 @@ vue-template-es2015-compiler@^1.2.2:
   version "1.5.3"
   resolved "https://registry.yarnpkg.com/vue-template-es2015-compiler/-/vue-template-es2015-compiler-1.5.3.tgz#22787de4e37ebd9339b74223bc467d1adee30545"
 
-weex-loader@0.5.2:
-  version "0.5.2"
-  resolved "https://registry.yarnpkg.com/weex-loader/-/weex-loader-0.5.2.tgz#78ed5ac2ffb86835017e578cd92f5f390e6acd65"
+weex-loader@0.5.3:
+  version "0.5.3"
+  resolved "https://registry.yarnpkg.com/weex-loader/-/weex-loader-0.5.3.tgz#1172a36850d060319653549704e76b3ba4176ef9"
   dependencies:
     babel-loader "^6.2.4"
     babel-plugin-transform-runtime "^6.9.0"
