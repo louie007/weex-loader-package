@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "weex-loader": "0.5.1"
+    "weex-loader": "0.5.2"
   }
 }

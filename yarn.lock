@@ -1779,9 +1779,9 @@ vue-template-es2015-compiler@^1.2.2:
   version "1.5.3"
   resolved "https://registry.yarnpkg.com/vue-template-es2015-compiler/-/vue-template-es2015-compiler-1.5.3.tgz#22787de4e37ebd9339b74223bc467d1adee30545"
 
-weex-loader@0.5.1:
-  version "0.5.1"
-  resolved "https://registry.yarnpkg.com/weex-loader/-/weex-loader-0.5.1.tgz#4ec8655f423d5562477eedf7d8c1500f30ddd5a8"
+weex-loader@0.5.2:
+  version "0.5.2"
+  resolved "https://registry.yarnpkg.com/weex-loader/-/weex-loader-0.5.2.tgz#78ed5ac2ffb86835017e578cd92f5f390e6acd65"
   dependencies:
     babel-loader "^6.2.4"
     babel-plugin-transform-runtime "^6.9.0"
@@ -1792,13 +1792,13 @@ weex-loader@0.5.1:
     md5 "^2.1.0"
     parse5 "^2.1.5"
     source-map "^0.5.6"
-    weex-scripter "^0.1.4"
-    weex-styler "^0.2.0"
-    weex-templater "^0.3.0"
-    weex-transformer "^0.4.2"
-    weex-vue-loader "^0.4.0"
+    weex-scripter "^0.1.5"
+    weex-styler "^0.2.1"
+    weex-templater "^0.3.5"
+    weex-transformer "^0.4.5"
+    weex-vue-loader "^0.4.1"
 
-weex-scripter@^0.1.4, weex-scripter@~0.1.5:
+weex-scripter@^0.1.5, weex-scripter@~0.1.5:
   version "0.1.5"
   resolved "https://registry.yarnpkg.com/weex-scripter/-/weex-scripter-0.1.5.tgz#2fc84e6c7e6db38e1facdad77f17365ce9555021"
   dependencies:
@@ -1808,7 +1808,7 @@ weex-scripter@^0.1.4, weex-scripter@~0.1.5:
     md5 "~2.1.0"
     resolve-bin "^0.4.0"
 
-weex-styler@^0.2.0, weex-styler@^0.2.1, weex-styler@~0.2.1:
+weex-styler@^0.2.1, weex-styler@~0.2.1:
   version "0.2.1"
   resolved "https://registry.yarnpkg.com/weex-styler/-/weex-styler-0.2.1.tgz#3cabffa5a8143756f97095cbb74e9eb7f07e233a"
   dependencies:
@@ -1826,14 +1826,14 @@ weex-template-compiler@^2.4.2-weex.2:
   dependencies:
     he "^1.1.0"
 
-weex-templater@^0.3.0, weex-templater@~0.3.5:
+weex-templater@^0.3.5, weex-templater@~0.3.5:
   version "0.3.5"
   resolved "https://registry.yarnpkg.com/weex-templater/-/weex-templater-0.3.5.tgz#dafcbb4576bf9ddc6ffd3da4ca7d8bc4d13ccaa3"
   dependencies:
     parse5 "~2.1.0"
     weex-styler "~0.1.0"
 
-weex-transformer@^0.4.2:
+weex-transformer@^0.4.5:
   version "0.4.5"
   resolved "https://registry.yarnpkg.com/weex-transformer/-/weex-transformer-0.4.5.tgz#a06d4428a488ee7d864ed2c619f942f096c50a7c"
   dependencies:
@@ -1847,7 +1847,7 @@ weex-transformer@^0.4.2:
     weex-styler "~0.2.1"
     weex-templater "~0.3.5"
 
-weex-vue-loader@^0.4.0:
+weex-vue-loader@^0.4.1:
   version "0.4.1"
   resolved "https://registry.yarnpkg.com/weex-vue-loader/-/weex-vue-loader-0.4.1.tgz#82c2db6add55d7f75ecf6fb715c3155980a34e63"
   dependencies:
